@@ -1,0 +1,22 @@
+{
+  "name": "optional-pkg",
+  "version": "1.0.0",
+  "description": "A minimal optional package",
+  "keywords": [
+    "pkg",
+    "package",
+    "optional",
+    "dummy"
+  ],
+  "author": {
+    "name": "Kristian Kraljic",
+    "email": "kris@kra.lc",
+    "url": "https://kra.lc/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristian/optional-packages.git"
+  },
+  "homepage": "https://github.com/kristian/optional-packages#readme"
+}

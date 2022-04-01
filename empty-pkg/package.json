@@ -1,0 +1,22 @@
+{
+  "name": "empty-pkg",
+  "version": "1.0.0",
+  "description": "A minimal empty package",
+  "keywords": [
+    "pkg",
+    "package",
+    "empty",
+    "dummy"
+  ],
+  "author": {
+    "name": "Kristian Kraljic",
+    "email": "kris@kra.lc",
+    "url": "https://kra.lc/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristian/optional-packages.git"
+  },
+  "homepage": "https://github.com/kristian/optional-packages#readme"
+}
