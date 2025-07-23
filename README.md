@@ -5,7 +5,7 @@ A collection of [NPM](https://npmjs.com/) packages that are all empty or otherwi
   1. **Empty packages**: Like `empty-pkg`, `minimal-pkg`, as well as `optional-pkg`, they are indeed completely empty / minimal and
   2. **Failing packages**: So packages that are not only empty, but also fail to install, like `failing-pkg`.
 
-*Why the frick*, you ask? Well *great question*! Let me loop you into the science behind empty packages: **They should be minimal.** I needed a minimal empty / dummy package to cheat Yarn (see [`yarn-plugin-better-optional`](https://github.com/kristian/yarn-better-optional)) and I didn't want to risk referring to a package that could be potentially malicious, or contains more than it should. This is why I created the `optional-packages` package collection. Neat, isn't it?
+*Why the frick*, you ask? Well *great question*! Let me loop you into the science behind empty packages: **They should be minimal.** I needed a minimal empty / dummy package to cheat Yarn (see [`yarn-plugin-optional-resolution`](https://github.com/kristian/yarn-plugin-optional-resolution)) and I didn't want to risk referring to a package that could be potentially malicious, or contains more than it should. This is why I created the `optional-packages` package collection. Neat, isn't it?
 
 ## Author
 
